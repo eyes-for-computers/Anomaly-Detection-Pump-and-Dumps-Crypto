@@ -1,0 +1,8 @@
+2021-11-03 14:38:04,797:INFO:Initializing load_model()
+2021-11-03 14:38:04,797:INFO:load_model(model_name=iforest_default_pycaret, platform=None, authentication=None, verbose=True)
+2021-11-03 14:38:39,516:INFO:Initializing load_model()
+2021-11-03 14:38:39,516:INFO:load_model(model_name=iforest_default_pycaret0.pkl, platform=None, authentication=None, verbose=True)
+2021-11-03 14:39:06,121:INFO:Initializing load_model()
+2021-11-03 14:39:06,121:INFO:load_model(model_name=iforest_default_pycaret0, platform=None, authentication=None, verbose=True)
+2021-11-03 14:40:29,900:INFO:Initializing load_model()
+2021-11-03 14:40:29,904:INFO:load_model(model_name=iforest_default_pycaret0, platform=None, authentication=None, verbose=True)
